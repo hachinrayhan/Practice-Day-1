@@ -1,0 +1,27 @@
+.link {
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 700;
+    background-image: linear-gradient(to right, orange, tomato);
+}
+
+.a {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+#top-left {
+    padding-top: 150px;
+    padding-left: 80px;
+    font-size: 25px;
+}
